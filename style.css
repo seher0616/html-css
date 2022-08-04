@@ -1,0 +1,63 @@
+body{
+   
+    background-color: rgb(243, 233, 256);
+    /* text-align: center; */
+
+}
+h1{
+    text-align: center;
+    color: rgb(69, 51, 122);
+    font-size: 52px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    border: 2px solid red;
+   margin: 20px;
+   width: 300px;
+   
+}
+#logo{
+    text-align: center;
+}
+.card{
+    background-color: rgb(119, 74, 216);
+    color: white;
+    margin: auto;
+    padding: 40px;
+    text-align: left;
+    width: 700px;
+    border-radius: 10px;
+    
+
+}
+h2{
+    font-size: 24px;
+
+}
+p{
+    font-size: 18px;
+}
+ol{
+    text-decoration: none;
+    list-style: none;
+}
+.class1{
+    border-left: 5px solid orange;
+}
+li{
+    margin: 10px o;
+    font-size: 18px;
+    padding: 10px;
+    margin-left: -20px;
+    
+}
+span{
+    background-color: yellow;
+    color: black;
+    border-radius: 5px;
+    padding: 2px;
+}
+a{
+    text-decoration: none;
+}
